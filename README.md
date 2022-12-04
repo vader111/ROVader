@@ -16,43 +16,9 @@ All the modders that used their time and considerable skills to develop the mode
 
 * Module Manager
 * Realism Overhaul Install and it's Dependencies
-* Bluedog Design for Now
 * BoringCrewServices for Now
 
 ## Parts Included
-
-* Apollo (When Models and Textures are added to the pack)
-  * Apollo Drogue Docking Port (Bluedog Design by CobaltWolf)
-  * Apollo Drogue Parachute Pack (Bluedog Design by CobaltWolf)
-  * Apollo CM Forward Heat Shield (Bluedog Design by CobaltWolf)
-  * Apollo Main Parachute Pack (Bluedog Design by CobaltWolf)
-  * Apollo Docking Mechanism Probe (Bluedog Design by CobaltWolf)
-  * Apollo Block III+ Command Module (CM) (Bluedog Design by CobaltWolf)
-  * Apollo Block III+ Command Module Heat Shield (CM) (Bluedog Design by CobaltWolf)
-  * Apollo Launch Escape System (LES) (Bluedog Design by CobaltWolf)
-  * Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
-  * Apollo Block III+ Service Module (Bluedog Design by CobaltWolf)
-  * Apollo Service Module RCS Block (Bluedog Design by CobaltWolf)
-  * Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
-  * Apollo Block V Service Engine (TR-201) (Bluedog Design by CobaltWolf)
-  * Apollo Block III High Gain Antenna (Bluedog Design by CobaltWolf)
-  * Apollo Block V High Gain Antenna (Bluedog Design by CobaltWolf)
-  * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
-  * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
-
-* LEM (When Models and Textures are added to the pack)
-  * Apollo LM Ascent Stage (Bluedog Design by CobaltWolf)
-  * Apollo LM Ascent Engine (Bluedog Design by CobaltWolf)
-  * Apollo LM Decoupler (Bluedog Design by CobaltWolf)
-  * Apollo LM Descent Stage (Bluedog Design by CobaltWolf)
-  * Apollo LM Descent Engine (Bluedog Design by CobaltWolf)
-  * Apollo LM Descent Stage Legs (Bluedog Design by CobaltWolf)
-
-* AARDV (When Models and Textures are added to the pack)
-  * AARDV Nose Adapter (Bluedog Design by CobaltWolf)
-  * AARDV-Apollo Structural Adapter (Bluedog Design by CobaltWolf)
-  * AARDV Block II Avionics (Bluedog Design by CobaltWolf)
-  * AARDV Block II Cargo Module (Bluedog Design by CobaltWolf)
 
 * Dragon 2 Crew (With Permission from Kartoffelkuchen)
   * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
