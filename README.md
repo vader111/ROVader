@@ -2,15 +2,15 @@
 
 ## What is it?
 
-ROVader is a mod that may or maybe not be a Testing Bed for all of my Mods before being Pulled Requested into the Realism Overhaul Suite of Mods.
+ROVader is a mod that may or maybe not be a Testing Bed for all of my Mods before being Pull Requested into the Realism Overhaul Suite of Mods.
 
 ## Why is it needed?
 
-IDK, Maybe you want to test all my mods.
+IDK, Maybe you want to Test my Mods.
 
 ## Who deserves the credit?
 
-All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included inlcudes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and where authors could be reached, I received permission to include them. If you find anything that you do not think should belong, please let me know and I will remove them.
+All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included includes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and where authors could be reached, I received permission to include them. If you find anything that you do not think should belong, please let me know and I will remove them.
 
 ## Dependencies
 
