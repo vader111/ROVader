@@ -14,10 +14,15 @@ All the modders that used their time and considerable skills to develop the mode
 
 ## Dependencies
 
-* Module Manager
-* Standard RP 1 Express Install & Dependencies (CKAN)
-* Bluedog Design Bureau & Dependencies For the Apollo AARDV (https://github.com/CobaltWolf/Bluedog-Design-Bureau Or CKAN)
-* BoringCrewServices & Dependencies For the Starliner (https://github.com/DylanSemrau/BoringCrewServices)
+* Standard RP 1 Express Install & Dependencies (CKAN Or Manually If your A Mad Man)
+
+## Optional Mods
+
+* BoringCrewServices & Dependencies (https://github.com/DylanSemrau/BoringCrewServices)
+* Bluedog Design Bureau & Dependencies (https://github.com/CobaltWolf/Bluedog-Design-Bureau Or CKAN)
+* Artemis Construction Kit & Dependencies (https://github.com/benjee10/Benjee10_Orion Or CKAN)
+* Planetside Exploration Technologies & Dependencies (https://github.com/benjee10/Benjee10_MMSEV Or CKAN)
+* Benjee's Shared Assets (https://github.com/benjee10/Benjee10_sharedAssets Or Included with any other of Benjee's Mods)
 
 ## Parts Included
 
