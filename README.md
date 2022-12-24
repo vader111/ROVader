@@ -2,11 +2,11 @@
 
 ## What is it?
 
-ROVader is a mod that may or maybe not be a Testing Bed for all of my Mods before being Pulled Requested into the Realism Overhaul Suite of Mods.
+ROVader is a mod that is a Testing Bed for all of my Mods before being Pulled Requested into the Realism Overhaul Suite of Mods.
 
 ## Why is it needed?
 
-IDK, Maybe you want to test all my mods.
+To Test my Mods Of course.
 
 ## Who deserves the credit?
 
@@ -15,17 +15,11 @@ All the modders that used their time and considerable skills to develop the mode
 ## Dependencies
 
 * Module Manager
-* Realism Overhaul Install and it's Dependencies
-* Bluedog Design for Now
-* BoringCrewServices for Now
+* Standard RP 1 Express Install & Dependencies (CKAN)
+* Bluedog Design Bureau & Dependencies For the Apollo AARDV (https://github.com/CobaltWolf/Bluedog-Design-Bureau Or CKAN)
+* BoringCrewServices & Dependencies For the Starliner (https://github.com/DylanSemrau/BoringCrewServices)
 
 ## Parts Included
-
-* AARDV (When Models and Textures are added to the pack)
-  * AARDV Nose Adapter (Bluedog Design by CobaltWolf)
-  * AARDV-Apollo Structural Adapter (Bluedog Design by CobaltWolf)
-  * AARDV Block II Avionics (Bluedog Design by CobaltWolf)
-  * AARDV Block II Cargo Module (Bluedog Design by CobaltWolf)
 
 * Dragon 2 Crew (With Permission from Kartoffelkuchen)
   * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
@@ -56,13 +50,22 @@ All the modders that used their time and considerable skills to develop the mode
   * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
   * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
 
-* CST-100 Starliner (When Models and Textures are added to the pack)
+* Starship Lunar "Hopefully Coming Soon"
+  * Starship Lunar Part Pack (Mesh by "TBA", Mesh Edits by Vader111)
+
+* Advanced SRB Booster
+  * Advanced SRB Boostere (Kertemis Program by rogerwang86)
+
+* AARDV (When Models and Textures are added to this pack)
+  * AARDV Nose Adapter (Bluedog Design by CobaltWolf)
+  * AARDV-Apollo Structural Adapter (Bluedog Design by CobaltWolf)
+  * AARDV Block II Avionics (Bluedog Design by CobaltWolf)
+  * AARDV Block II Cargo Module (Bluedog Design by CobaltWolf)
+
+* CST-100 Starliner (When Models and Textures are added to this pack)
   * CST-100 Crew Module (CST-100 by DylanSemrau)
   * CST-100 Heat Shield (CST-100 by DylanSemrau)
   * CST-100 Parachute Pack (CST-100 by Hanson Ma)
   * CST-100 Nose Cone (CST-100 by DylanSemrau)
   * CST-100 RCS Packs (CST-100 by DylanSemrau)
   * CST-100 Service Module (CST-100 by DylanSemrau)
-
-* Advanced SRB Booster
-  * Advanced SRB Boostere (Kertemis Program by rogerwang86)
