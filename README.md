@@ -23,6 +23,8 @@ All the modders that used their time and considerable skills to develop the mode
 * Artemis Construction Kit & Dependencies (https://github.com/benjee10/Benjee10_Orion Or CKAN)
 * Planetside Exploration Technologies & Dependencies (https://github.com/benjee10/Benjee10_MMSEV Or CKAN)
 * Benjee's Shared Assets (https://github.com/benjee10/Benjee10_sharedAssets Or Included with any other of Benjee's Mods)
+* Knes (https://github.com/AstroWell/Knes Or CKAN)
+
 
 ## Parts Included
 
