@@ -10,23 +10,31 @@ To Test my Mods Of course.
 
 ## Who deserves the credit?
 
-All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included inlcudes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and where authors could be reached, I received permission to include them. If you find anything that you do not think should belong, please let me know and I will remove them.
+All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included includes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and asked authors that could be reached if I could obtain permission for non-shareable like licenses if I could include them. If you find anything that you do not think should belong, please let me know and I will remove them.
 
 ## Dependencies
 
-* Standard RP 1 Express Install & Dependencies (CKAN Or Manually If your A Mad Man)
+* Standard RP 1 Express Install & Dependencies (CKAN Or Manually If you consider yourself a Mad Man)
 
 ## Optional Mods
 
-* BoringCrewServices & Dependencies (https://github.com/DylanSemrau/BoringCrewServices)
-* Bluedog Design Bureau & Dependencies (https://github.com/CobaltWolf/Bluedog-Design-Bureau Or CKAN)
 * Artemis Construction Kit & Dependencies (https://github.com/benjee10/Benjee10_Orion Or CKAN)
-* Planetside Exploration Technologies & Dependencies (https://github.com/benjee10/Benjee10_MMSEV Or CKAN)
 * Benjee's Shared Assets (https://github.com/benjee10/Benjee10_sharedAssets Or Included with any other of Benjee's Mods)
-* Knes (https://github.com/AstroWell/Knes Or CKAN)
-
+* Bluedog Design Bureau & Dependencies (https://github.com/CobaltWolf/Bluedog-Design-Bureau Or CKAN)
+* BoringCrewServices & Dependencies (https://github.com/DylanSemrau/BoringCrewServices)
+* Heat Control & Dependencies (https://github.com/post-kerbin-mining-corporation/HeatControl Or CKAN)
+* Knes & Dependencies (https://github.com/AstroWell/Knes Or CKAN)
+* Planetside Exploration Technologies & Dependencies (https://github.com/benjee10/Benjee10_MMSEV Or CKAN)
+* TundraExploration & Dependencies (https://github.com/TundraMods/TundraExploration Or CKAN)
 
 ## Parts Included
+
+* Advanced SRB Booster
+  * Advanced SRB Booster (Kertemis Program by rogerwang86)
+
+* Dragon 2 Cargo (With Permission from Kartoffelkuchen)
+  * Dragon 2 Cargo Cargo Module Pack (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
+  * Dragon 2 Cargo Service Module (SpaceX Pack by Kartoffelkuchen)
 
 * Dragon 2 Crew (With Permission from Kartoffelkuchen)
   * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
@@ -37,42 +45,22 @@ All the modders that used their time and considerable skills to develop the mode
   * Dragon Crew Heat Shield (SpaceX Pack by Kartoffelkuchen)
   * Dragon Crew Service Module (SpaceX Pack by Kartoffelkuchen)
 
-* Dragon 2 Cargo (With Permission from Kartoffelkuchen)
-  * Dragon 2 Cargo Cargo Module Pack (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
-  * Dragon 2 Cargo Service Module (SpaceX Pack by Kartoffelkuchen)
+* IPP Apollo Tug
+  * Apollo Tug Engine Mounts (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug AntennaKit (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug Crew Module (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug Intelligence Module (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug Propellant Tanks (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug Manipulator Module (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug Radiator Kit (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug RCS Block (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug RCS Module (Integrated Phoenix Industries by Orbital_phoenix)
+  * Apollo Tug RCS Propellant Module (Integrated Phoenix Industries by Orbital_phoenix)
 
-* Dragon 1 Cargo
-  * Dragon Cargo Adapter (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Nosecone (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Crew Module Pack (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Docking Port (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Heat Shield (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Solar Cover (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Service Module (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
-  * Dragon Cargo Solar Panels (Phoenix Industries by MoviesColin)
-  * Dragon Cargo Parachute (KerbalX Pack by DECQ, Mesh Edits by Vader111)
+* NASA Supermodule Concept
+  * NASA SuperModule (SSOUPP by Lil_Bread402)
 
-* Dragon Cargo XL
-  * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
-  * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
-  * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
-
-* Starship Lunar "Hopefully Coming Soon"
-  * Starship Lunar Part Pack (Mesh by "TBA", Mesh Edits by Vader111)
-
-* Advanced SRB Booster
-  * Advanced SRB Boostere (Kertemis Program by rogerwang86)
-
-* AARDV (When Models and Textures are added to this pack)
-  * AARDV Nose Adapter (Bluedog Design by CobaltWolf)
-  * AARDV-Apollo Structural Adapter (Bluedog Design by CobaltWolf)
-  * AARDV Block II Avionics (Bluedog Design by CobaltWolf)
-  * AARDV Block II Cargo Module (Bluedog Design by CobaltWolf)
-
-* CST-100 Starliner (When Models and Textures are added to this pack)
-  * CST-100 Crew Module (CST-100 by DylanSemrau)
-  * CST-100 Heat Shield (CST-100 by DylanSemrau)
-  * CST-100 Parachute Pack (CST-100 by Hanson Ma)
-  * CST-100 Nose Cone (CST-100 by DylanSemrau)
-  * CST-100 RCS Packs (CST-100 by DylanSemrau)
-  * CST-100 Service Module (CST-100 by DylanSemrau)
+* Shuttle-C
+  * Shuttle-C Boattail (O.R.A.N.G.E.S by EStreetRockets)
+  * Shuttle-C Nosecone (O.R.A.N.G.E.S by EStreetRockets)
+  * Shuttle-C Payload Carrier (O.R.A.N.G.E.S by EStreetRockets)
