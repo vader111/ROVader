@@ -26,10 +26,23 @@ All the modders that used their time and considerable skills to develop the mode
 * Knes & Dependencies (https://github.com/AstroWell/Knes Or CKAN)
 * Planetside Exploration Technologies & Dependencies (https://github.com/benjee10/Benjee10_MMSEV Or CKAN)
 * TundraExploration & Dependencies (https://github.com/TundraMods/TundraExploration Or CKAN)
+* Kerbal Reusability Expansion & Dependencies (https://github.com/TundraMods/Kerbal-Reusability-Expansion Or CKAN)
+
+## Optional Patches
+
+* No Residuals
+  * Creating a folder in your gamedata folder called "RONoResiduals" will allow this patch to disable Real Fuels Residuals System.
+
+* No Boiloff
+  * Creating a folder in your gamedata folder called "RONoBoiloff" will allow this patch to disable RO/Real Fuels Implementation of Fuel Boiloff and MLI. 
+
+## Configs included
+
+* Most Configs are either created by myself based off Configs started by SkyPhoenix999 and modified or left untouched for now.
 
 ## Parts Included
 
-* Advanced SRB Booster
+* Advanced (BOLE?) SRB Booster
   * Advanced SRB Booster (Kertemis Program by rogerwang86)
 
 * Dragon 2 Cargo (With Permission from Kartoffelkuchen)
@@ -59,8 +72,3 @@ All the modders that used their time and considerable skills to develop the mode
 
 * NASA Supermodule Concept
   * NASA SuperModule (SSOUPP by Lil_Bread402)
-
-* Shuttle-C
-  * Shuttle-C Boattail (O.R.A.N.G.E.S by EStreetRockets)
-  * Shuttle-C Nosecone (O.R.A.N.G.E.S by EStreetRockets)
-  * Shuttle-C Payload Carrier (O.R.A.N.G.E.S by EStreetRockets)
