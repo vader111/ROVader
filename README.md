@@ -2,11 +2,11 @@
 
 ## What is it?
 
-ROVader is a mod that is a Testing Bed for all of my Mods before being Pulled Requested into the Realism Overhaul Suite of Mods.
+ROVader is a mod/git repo that is a testing Bed for all of my mods built for the Realism Overhaul suite of mods.
 
 ## Why is it needed?
 
-To Test my Mods Of course.
+Baseline Git repo to store all my mods before hopefully pull requesting them into the RO mod economy.
 
 ## Who deserves the credit?
 
